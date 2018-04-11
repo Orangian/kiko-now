@@ -11,7 +11,11 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include footer.html %}
+          {% include svg-icons.html %}
+
+          {% if site.footer-text %}
+          <p>{{ site.footer-text }}</p>
+          {% endif %}
         </footer>
       </div>
     </div>
