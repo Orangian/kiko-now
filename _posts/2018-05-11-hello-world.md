@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Website"
-tags: [tag]
+tags: [New Site]
 comments: true
 ---
 
