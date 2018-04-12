@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Ty Ethan Sayahi (Hence the name Ty-Et-Sa). This website is my personal blog.
+ This website is currently used as my blog for my ELA class.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tysayahi@gmail.com](mailto:tysayahi@gmail.com)
