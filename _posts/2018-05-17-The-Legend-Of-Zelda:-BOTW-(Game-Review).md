@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Legend Of Zelda: BOTW (game Review)"
+title: "The Legend Of Zelda: BOTW (Game Review)"
 tags: [Game Review]
 comments: true
 ---
