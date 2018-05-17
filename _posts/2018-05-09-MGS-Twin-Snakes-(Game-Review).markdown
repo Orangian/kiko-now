@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metal Gear Solid: The Twin Snakes (Game Review)"
+title: Metal Gear Solid: The Twin Snakes (Game Review)
 tags: [MGS:TTS]
 comments: true
 ---
