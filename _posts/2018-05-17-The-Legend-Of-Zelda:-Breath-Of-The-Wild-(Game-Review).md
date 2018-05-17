@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Legend Of Zelda:Breath Of The Wild (game Review)"
+title: "The Legend Of Zelda: Breath Of The Wild (game Review)"
 tags: [Game Review]
 comments: true
 ---
