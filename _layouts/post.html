@@ -44,7 +44,7 @@ comments: true
     {% endif %}
   </div>
 
-  {% if page.comments %}
+  {% if site.comments == true %}
 {% include disqus.html %}
 {% endif %}
 
