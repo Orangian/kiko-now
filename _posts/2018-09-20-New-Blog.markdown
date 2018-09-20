@@ -1,7 +1,6 @@
-----
+---
 title: New Blog
 date: 2018-09-20 09:24:00 -04:00
-published: true
 ---
 
 Hiya! So, I archived all of my previous posts. Theyre gone. 
